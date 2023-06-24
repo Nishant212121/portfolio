@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#hero-button{
+    outline: 0px;
+}
+
+.smallHeroTitle{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 600;
+}
+
+.largeHeroTitle{
+    display: inline;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+}
+
+.largeHeroTitle2{
+    display: inline;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    color: #d5ff40;
+}
+
+.heroText{
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 600;
+}
