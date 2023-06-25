@@ -8,7 +8,7 @@ function HeroSection(){
                     <div className=" text-white" style={{
             background: "black"
           }}>
-            <div class=" container mx-auto flex px-4 py-6 items-center justify-center flex-col lg:px-5 lg:py-24">
+            <div class="container mx-auto flex px-4 py-6 items-center justify-center flex-col lg:px-5 lg:py-24">
               <div class="text-left w-1/1 lg:w-5/6 w-full">
                 <h2 className="smallHeroTitle my-6  text-2xl font-bold leading-tight lg:text-3xl">
                   Hello , I'm Nishant

@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+
+/* Hero Section */
+
 #hero-button{
     outline: 0px;
 }
@@ -27,4 +30,21 @@
 .heroText{
     font-family: 'Epilogue', sans-serif;
     font-weight: 600;
+}
+
+/* About Section */
+
+.aboutHeading{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+}
+
+/* My Skills */
+.skillsHeading{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+}
+
+.skillsPara{
+
 }

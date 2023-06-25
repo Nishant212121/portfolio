@@ -15,6 +15,7 @@ function Header(){
 
     function onClick(event){
         setActiveName(event.target.name)
+        setExtend( current => !current)
     }
 
     return(
