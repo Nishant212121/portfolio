@@ -3,14 +3,14 @@ nav{
     font-family: 'Inter', sans-serif;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-between;
     background-color: #000;
     color: white;
     padding: 20px 80px;
 }
 
 nav a h1{
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #navbar{
